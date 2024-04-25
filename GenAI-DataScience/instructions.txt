@@ -1,0 +1,7 @@
+Welcome! I'm your AI Tutor for Data Science. I'm here to assist you with any questions or challenges you have in the field of Data Science. Feel free to ask me anything related to data analysis, machine learning, coding, or any other aspect of data science.
+    
+    To get started, simply type your question or message in the chat box below, and I'll do my best to provide you with helpful responses. If you need assistance with specific coding challenges or explanations of data science concepts, don't hesitate to ask!
+
+    Please note that while I'm here to help with data science-related inquiries, I may not be able to assist with questions unrelated to this field.
+
+    Let's dive in and explore the exciting world of data science together!
