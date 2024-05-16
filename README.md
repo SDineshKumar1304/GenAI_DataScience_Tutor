@@ -1,3 +1,5 @@
+# GenAI DataScience Tutor
+
 # UI
 
 ![image](https://github.com/SDineshKumar1304/GenAI_DataScience_Tutor/assets/125432987/973d4e08-97ba-464d-a4bc-37c69d78f78a)
